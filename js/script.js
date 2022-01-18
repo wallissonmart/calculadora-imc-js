@@ -22,6 +22,13 @@ function Limpar() {
     aviso.textContent = "";
 }
 
+btnLimpar.addEventListener('click', function() {
+        verificarInputs()
+        Limpar()
+
+}
+)
+
 btnEnviar.addEventListener('click', function (e) {
     // pegar os values de cada input
     let nome = cxNome.value
