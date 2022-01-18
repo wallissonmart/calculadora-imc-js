@@ -174,10 +174,9 @@ footer strong {
     font-family: 'Sacramento', cursive;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 650px) {
     body {
         width: 100%;
-        height: 100vh;
         margin: 0 auto;
         /* height: 100vh; */
         background: #efefef;
