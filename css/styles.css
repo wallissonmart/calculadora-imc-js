@@ -97,18 +97,24 @@ button {
 }
 
 @media (max-width:800px) {
+
     main {
         display: flex;
-        width: 100%;
-        min-height: 100vh;
+        width: 100vw;
+        min-height: 90vh;
         justify-content: center;
         align-items: center;
         align-content: center;
     }
 
+    .container {
+        width: 95%;
+    }
+
     .title {
         display: flex;
         justify-content: center;
+        text-align: center;
         align-items: center;
         width: 100%;
         height: 10%;
@@ -135,4 +141,5 @@ button {
         outline: 0;
         font: bold 1.5rem serif;
     }
+    
 }
