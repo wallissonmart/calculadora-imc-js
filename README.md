@@ -1,5 +1,5 @@
 <h1 align="left">Calculadora de IMC</h1>
-<p align="left">Calculadora para calcular seu índice de massa corporal com diferentes diagnósticos.</p>
+<p align="left">Calculadora para calcular seu índice de massa corporal com diferentes diagnósticos</p>
 
 <p align="left"> •
  <a href="#status">Status</a> •
@@ -20,7 +20,7 @@ Para acessar a página bastar clicar no seguinte link: https://wallissonmart.git
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
-- [x] Botão para realizar calculo com base em valores inseridos;
+- [x] Botão para realizar cálculo com base em valores inseridos;
 - [x] Diferentes diagnósticos de acordo com os resultados;
 - [x] Design responsivo;
 
