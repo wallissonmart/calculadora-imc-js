@@ -16,7 +16,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar a página bastar clicar no seguinte link: https://wallissonmart.github.io/calculadora-imc-js/
+Para acessar a aplicação basta clicar no seguinte link: https://wallissonmart.github.io/calculadora-imc-js/
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
